@@ -63,13 +63,13 @@ This progression (branding → summary → detail) is a deliberate UX pattern th
 
 **🏠 Home Page**
 
-![Home Page](IMG_1.PNG)
+![Home Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%201.PNG)
 
 A branded landing screen with the Starbucks logo and a simple top navigation bar (**Home / Overview / Details**) built with Power BI's **page navigator** visual. This exists purely for polish and usability — giving the report a "product" feel rather than a raw set of Power BI tabs, and giving users an explicit, guided way to move between the summary and detail views.
 
 **📊 Overview Page**
 
-![Overview Page](IMG_2.PNG)
+[Overview Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%202.PNG)
 
 *🔢 KPI Ring Cards (Order Count, Customer Count, Total Amount, Total Quantity)*
 Four headline numbers — **100 orders, 20 customers, ₹33.22K total amount, 158 items sold** — each paired with a **donut chart used as a progress ring** rather than a plain KPI card. Each ring plots the actual measure (`Order_Count`, `Customer_Count`, `Total_Amount`, `Total_Quantity`) against a corresponding DAX target constant (`Total_Order_Target = 300`, `Customer_Order_Target = 70`, `Total_Amount_Target = 60000`, `Total_Quantity_Target = 300`). This turns a plain number into an instantly readable **"how close are we to today's goal"** signal — far more actionable for a manager than the raw total alone.
