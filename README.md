@@ -88,7 +88,7 @@ A single text card showing *"Last Update – 20-Apr-26 : 10:20 PM"*, generated b
 
 **📋 Details Page**
 
-![Details Page](IMG_3.PNG)
+[Details Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%203.PNG)
 
 A full drill-down table joining **`customers`, `items`, and `sales`** — showing `transaction_id`, `customer_name`, `customer_phone`, `item`, `datetime`, `customer_type`, `payment_mode`, alongside the `Total_Amount`, `Total_Quantity`, and `Order_Count` measures, with a grand total row (₹33,220.00 / 158 units / 100 orders). This is the page a manager or analyst uses when the Overview raises a question — e.g., "who exactly bought during that 6 PM peak?" — turning the dashboard from a passive report into an investigable one.
 
