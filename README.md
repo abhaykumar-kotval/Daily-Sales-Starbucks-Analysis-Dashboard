@@ -2,6 +2,8 @@
 **An end-to-end SQL + Power BI project turning raw PostgreSQL transaction data into an hourly sales performance dashboard.**
 
 [Home Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%201.PNG)
+[Overview Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%202.PNG)
+[Details Page](https://github.com/abhaykumar-kotval/Daily-Sales-Starbucks-Analysis-Dashboard/blob/main/IMG%203.PNG)
 
 ---
 
